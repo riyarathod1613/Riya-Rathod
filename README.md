@@ -150,7 +150,7 @@ Timestamp,Password Length,Score,Strength,Entropy,Crack Time
 
 👨‍💻 Author
 
-Tirth Shingala
+Riya Rathod
 
 Diploma in Computer Engineering
 
